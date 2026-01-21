@@ -31,8 +31,3 @@ All exam subjects belong to the original professor and institution.
 
 If you find mistakes or want to improve a correction, feel free to open an issue or submit a pull request.
 
----
-
-
-
-just tell me 😉
